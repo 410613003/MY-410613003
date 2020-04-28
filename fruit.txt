@@ -5,3 +5,7 @@ banana
 guava
 apple
 orange
+
+kiwi
+peach
+watermelon
